@@ -2,6 +2,7 @@
 Suggested talks to share:
 
 AI Fairness - Trisha Mahoney
+Trisha gives us an overview of problems commonly seen when training data isn't diverse enough, along with a workshop.
 AI Bias looking at a real-world medical use case for bias mitigation (rating healthcare expenditure on whites vs. blacks)
 #Python #pydata #AI #Healthdata #Ethics #bias
 https://www.youtube.com/watch?v=DFu5hMksvqI

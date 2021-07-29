@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=qUuEefxZjtw
 
 Sanne Vrijenhoek: Popping the Filter Bubble | PyData Amsterdam 2019
 Present-day media companies produce an enormous amount of news content. Users rely on news recommenders to pick the articles that are most relevant and interesting to them. Because of this, news recommenders influence the information we receive about the world and therefore indirectly shape our view of it.
-
 https://www.youtube.com/watch?v=CQ6_2wvmY7Y
 20 minutes
+
+
+Anne Devan Song- Pythons in Python: Wildlife Trade Data Analysis Using Python | PyData Global 2020
+I am a data scientist and field biologist with research interests in social ecological systems. I am a PhD candidate at Oregon State University, co-advised in disease ecology and social-environmental analysis labs.
+
+https://www.youtube.com/watch?v=H0S12tiglW8
+7 minutes

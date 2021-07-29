@@ -1,5 +1,6 @@
 
 Suggested talks to share:
+Talks are picked to be diverse in people and topics. Also short so that people might actually watch them.
 
 AI Fairness - Trisha Mahoney
 Trisha gives us an overview of problems commonly seen when training data isn't diverse enough, along with a workshop.
@@ -14,3 +15,17 @@ Sundas explains how if we are not careful AI can find ways to replicate our bias
 #Pydata #AI #Ethics #Bias #Diversity
 https://www.youtube.com/watch?v=TjLtIDDK3sg
 24 minutes
+
+
+Lorna Brightmore - Feeding Dogs Tasty Food with Python
+Lorna shows how her company uses data science to create custom food blends for your dogs.
+#Pydata #"Pet related hashtags here." #Python
+https://www.youtube.com/watch?v=qUuEefxZjtw
+5 minutes
+
+
+Sanne Vrijenhoek: Popping the Filter Bubble | PyData Amsterdam 2019
+Present-day media companies produce an enormous amount of news content. Users rely on news recommenders to pick the articles that are most relevant and interesting to them. Because of this, news recommenders influence the information we receive about the world and therefore indirectly shape our view of it.
+
+https://www.youtube.com/watch?v=CQ6_2wvmY7Y
+20 minutes
